@@ -104,6 +104,12 @@ body{
     margin-top: 10px;
     display: none;
 }
+
+a{
+    text-decoration: none;
+    color: lightgrey;
+}
+
 .footer{
     text-align: center;
     padding: 30px;
